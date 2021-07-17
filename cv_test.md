@@ -1,6 +1,6 @@
 # _**CV:**_ *Nurmukhamatov Timur*
 ---
-![Sorry...Image Not Found](https://github.com/TimNurMur/rsschool-cv/)
+![Sorry...Image Not Found](https://github.com/TimNurMur/Test/blob/master/images/Photo.png?raw=true)
 
 ---
 
