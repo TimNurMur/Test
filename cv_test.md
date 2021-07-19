@@ -7,9 +7,9 @@
 | *Nurmukhamatov* | *Timur* | *1991.11.10* |
 
 Contacts
-| Phone: | Email: | VK: |
-|---|---|---|
-| *+7(912)874-97-82* | *Tim.Nur-Mur@mail.ru* | *[VK id](https://vk.com/idrakosha)* |
+| Phone: | Email: | VK: | Discord: |
+|---|---|---|---|
+| *+7(912)874-97-82* | *Tim.Nur-Mur@mail.ru* | *[VK id](https://vk.com/idrakosha)* | *SaYFu(@TimNurMur) (rs-school server)* |
 
 **Location:** *Izhevsk*
 
@@ -73,7 +73,66 @@ Contacts
 
 ### **Примеры кода:**
 
-К сожалению на данном этапе обучения достойные примеры кода отсутствуют
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="/logo.png" alt="Logo">
+        <nav>
+            <ul>
+                <li><a href="/">Main</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contacts">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <aside>
+        <nav>
+            <ul>
+                <li><a href="/game-1/">Game 1</a></li>
+                <li><a href="/game-2/">Game 2</a></li>
+            </ul>
+        </nav>
+    </aside>
+    
+    <main>
+        <p>We create games</p>
+    
+        <section class="purchase">
+            <h2>Leave a purchase request</h2>
+            <form>
+                <!-- form -->
+            </form>
+        </section>
+    
+        <section class="more">
+              <h2>More games</h2>
+              <article class="more-games">
+                  <h3>Game 3</h3>
+                  <p> game description </p>
+                  <a href="#">link to the game</a>
+              </article>
+    
+              <article class="more">
+                  <h3>Game 4</h3>
+                  <p>game description</p>
+                  <a href="#">link to the game</a>
+              </article>
+    
+        </section>
+    </main>
+</body>
+</html>
+```
 
 ---
 
