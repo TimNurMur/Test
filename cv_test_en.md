@@ -52,7 +52,7 @@ Contacts
 ---
 
 ### **My skills:**
-At the moment I'm taking courses in [RSSchool] (https://app.rs.school) in the direction of Front-end developer.
+At the moment I'm taking courses in [RSSchool](https://app.rs.school) in the direction of Front-end developer
 
 Basic skills by area:
 - *HTML*
